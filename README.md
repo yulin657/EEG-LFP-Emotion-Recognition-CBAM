@@ -1,7 +1,7 @@
 # EEG-LFP-Emotion-Recognition-CBAM
 
 # 项目名称 🚀
-> 基于CBAM的抑郁情绪状态LFP-EEG联合解码方法和系统 （**<u>The software is jointly developed by Zhejiang University, Liangzhu Laboratory, and Nanhu Brain-Computer Interface Institute.</u>**）
+> 基于CBAM的抑郁情绪状态LFP-EEG联合解码方法和系统 （**___The software is jointly developed by Zhejiang University, Liangzhu Laboratory, and Nanhu Brain-Computer Interface Institute.___**）
 
 ## 目录 📑
 - [项目简介](#项目简洁)
